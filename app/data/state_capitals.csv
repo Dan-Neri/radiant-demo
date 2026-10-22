@@ -1,4 +1,4 @@
-state_code,state,capital,latitude,longitude,timezone
+state_code,state,city,latitude,longitude,timezone
 NY,New York,Albany,42.75,-73.8,America/New_York
 MD,Maryland,Annapolis,38.97859,-76.49184,America/New_York
 GA,Georgia,Atlanta,33.65,-84.42,America/New_York
