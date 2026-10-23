@@ -1,0 +1,51 @@
+state_code,state,city,latitude,longitude,timezone
+NY,New York,Albany,42.75,-73.8,America/New_York
+MD,Maryland,Annapolis,38.97859,-76.49184,America/New_York
+GA,Georgia,Atlanta,33.65,-84.42,America/New_York
+ME,Maine,Augusta,44.32,-69.8,America/New_York
+TX,Texas,Austin,30.3,-97.7,America/Chicago
+LA,Louisiana,Baton Rouge,30.53,-91.15,America/Chicago
+ND,North Dakota,Bismarck,46.77,-100.75,America/Chicago
+ID,Idaho,Boise,43.57,-116.22,America/Boise
+MA,Massachusetts,Boston,42.37,-71.03,America/New_York
+NV,Nevada,Carson City,39.1638,-119.7674,America/Los_Angeles
+WV,West Virginia,Charleston,38.37,-81.6,America/New_York
+WY,Wyoming,Cheyenne,41.15,-104.82,America/Denver
+SC,South Carolina,Columbia,33.95,-81.14,America/New_York
+OH,Ohio,Columbus,40,-82.88,America/New_York
+NH,New Hampshire,Concord,43.20814,-71.53757,America/New_York
+CO,Colorado,Denver,39.75,-104.87,America/Denver
+IA,Iowa,Des Moines,41.53,-93.65,America/Chicago
+DE,Delaware,Dover,39.13,-75.47,America/New_York
+KY,Kentucky,Frankfort,38.20091,-84.87328,America/New_York
+PA,Pennsylvania,Harrisburg,40.193,-76.763,America/New_York
+CT,Connecticut,Hartford,41.73,-72.65,America/New_York
+MT,Montana,Helena,46.6,-112,America/Denver
+HI,Hawaii,Honolulu,21.33,-157.94,Pacific/Honolulu
+IN,Indiana,Indianapolis,39.73,-86.27,America/Indiana/Indianapolis
+MS,Mississippi,Jackson,32.32,-90.08,America/Chicago
+MO,Missouri,Jefferson City,38.5767,-92.17352,America/Chicago
+AK,Alaska,Juneau,58.37,-134.58,America/Juneau
+MI,Michigan,Lansing,42.77,-84.6,America/Detroit
+NE,Nebraska,Lincoln,40.85,-96.75,America/Chicago
+AR,Arkansas,Little Rock,35.22,-92.38,America/Chicago
+WI,Wisconsin,Madison,43.13,-89.33,America/Chicago
+AL,Alabama,Montgomery,32.3,-86.4,America/Chicago
+VT,Vermont,Montpelier,44.2,-72.57,America/New_York
+TN,Tennessee,Nashville,36.17,-86.78,America/Chicago
+OK,Oklahoma,Oklahoma City,35.4,-97.6,America/Chicago
+WA,Washington,Olympia,46.97,-122.9,America/Los_Angeles
+AZ,Arizona,Phoenix,33.44,-112.02,America/Phoenix
+SD,South Dakota,Pierre,44.38,-100.28,America/Chicago
+RI,Rhode Island,Providence,41.73,-71.43,America/New_York
+NC,North Carolina,Raleigh,35.7721,-78.63861,America/New_York
+VA,Virginia,Richmond,37.5,-77.33,America/New_York
+CA,California,Sacramento,38.56,-121.47,America/Los_Angeles
+MN,Minnesota,Saint Paul,44.94441,-93.09327,America/Chicago
+OR,Oregon,Salem,44.92,-123,America/Los_Angeles
+UT,Utah,Salt Lake City,40.78,-111.97,America/Denver
+NM,New Mexico,Santa Fe,35.62,-106.08,America/Denver
+IL,Illinois,Springfield,39.85,-89.67,America/Chicago
+FL,Florida,Tallahassee,30.38,-84.37,America/New_York
+KS,Kansas,Topeka,39.07,-95.62,America/Chicago
+NJ,New Jersey,Trenton,40.28,-74.82,America/New_York
